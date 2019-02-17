@@ -10,3 +10,7 @@ One incredibly cool thing about Slack (and there are many) is its extensibility.
 In this repository, we'll provide the source code for a MongoDB Stitch service function that handles integration with a MongoDB Database from a Slack slash command. For this simple example, we'll accept URLs from a slash command and store them in a MongoDB Database using a MongoDB Stitch service.
 
 To read the associated blog article, visit this [link](https://mongodb.com/blog/how-to-build-a-slack-chatbot-in-mongodb-stitch).
+
+Check out this video walk-through that may help you.
+
+[![Building a Slack App in 10 Minutes with MongoDB Stitch](http://github.com/mrlynn/images/slack-stich-cover.jpg)](https://www.youtube.com/watch?v=FLSvZ2WmYzc)

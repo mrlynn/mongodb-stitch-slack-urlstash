@@ -14,9 +14,11 @@ To read the associated blog article, visit this [link](https://mongodb.com/blog/
 
 ## Requirements
 1. Free Slack Workspace [Slack](https://slack.com/get-started)
-Check out this video walk-through that may help you.
+1. Free [MongoDB Atlas Account](http://cloud.mongodb.com)
+1. MongoDB Cluster, Database, and Collection
 
 ## Video
+Check out this video walk-through that may help you.
 
 [![Building a Slack App in 10 Minutes with MongoDB Stitch](https://github.com/mrlynn/mongodb-stitch-slack-urlstash/blob/master/images/slack-stich-cover.jpg?raw=true)](https://www.youtube.com/watch?v=FLSvZ2WmYzc)
 

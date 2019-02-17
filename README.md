@@ -13,4 +13,4 @@ To read the associated blog article, visit this [link](https://mongodb.com/blog/
 
 Check out this video walk-through that may help you.
 
-[![Building a Slack App in 10 Minutes with MongoDB Stitch](http://github.com/mrlynn/images/slack-stich-cover.jpg)](https://www.youtube.com/watch?v=FLSvZ2WmYzc)
+[![Building a Slack App in 10 Minutes with MongoDB Stitch](https://github.com/mrlynn/mongodb-stitch-slack-urlstash/blob/master/images/slack-stich-cover.jpg?raw=true)](https://www.youtube.com/watch?v=FLSvZ2WmYzc)

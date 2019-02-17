@@ -13,7 +13,7 @@ In this repository, we'll provide the source code for a MongoDB Stitch service f
 To read the associated blog article, visit this [link](https://mongodb.com/blog/how-to-build-a-slack-chatbot-in-mongodb-stitch).
 
 ## Requirements
-1. Free Slack Workspace [Slack](https://slack.com/get-started)
+1. Free [Slack Workspace](https://slack.com/get-started)
 1. Free [MongoDB Atlas Account](http://cloud.mongodb.com)
 1. MongoDB Cluster, Database, and Collection
 

@@ -1,0 +1,34 @@
+{
+    "_id": {
+        "$oid": "5c6094cad1401ac50264b17c"
+    },
+    "query": {
+        "team_domain": "mlynn",
+        "channel_id": "C86J9RTHP",
+        "user_id": "U86E4VB5W",
+        "text": "http://google.com",
+        "response_url": "https://hooks.slack.com/commands/T86J9RM6V/547352278421/Rdj35x0hljNYVFV3lWEOxZnn",
+        "trigger_id": "546988505636.278621871233.c0f079e76a8b7877402b0ce7971d53b4",
+        "user_name": "mike",
+        "command": "/new",
+        "token": "H6o2H3xT6ScziLVhXraOSsq4",
+        "team_id": "T86J9RM6V",
+        "channel_name": "general"
+    },
+    "headers": {
+        "Sslclientcertstatus": ["NoClientCert"],
+        "Content-Type": ["application/x-www-form-urlencoded"],
+        "X-Forwarded-Proto-Stitch": ["https"],
+        "Sslkeylogline": ["CLIENT_RANDOM 78309b0f74fc35b2c598eeafbac4cb457461bb90d97b72ff75306c33b64185e5 9e15ac5322fda58587af9bf0034afe65d07c47f2eb6932eb5d3b3f61af824cb84dee174d912b4f9fbff02f9e2302023d"],
+        "Sslsessionid": ["8CBE426DB5B02F6786FF4C80BC483CF0414FEEB22694BD2DCA18B4601BDE0BAD"],
+        "X-Slack-Signature": ["v0=fb19df460151838133c5126989d74172b668f2f2eee9b86d5bbb3ec283dd7aa8"],
+        "Accept-Encoding": ["gzip,deflate"],
+        "X-Forwarded-Proto": ["https"],
+        "Sslclientcipher": ["SSL_ECDHE_RSA_WITH_AES_128_CBC_SHA256, version=TLSv1.2, bits=128"],
+        "X-Cluster-Client-Ip": ["52.90.113.0"],
+        "User-Agent": ["Slackbot 1.0 (+https://api.slack.com/robots)"],
+        "Accept": ["application/json,*/*"],
+        "X-Slack-Request-Timestamp": ["1549833417"],
+        "Content-Length": ["363"]
+    }
+}
